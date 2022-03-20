@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/460cb18ad7a8e106fc438408d646e6e8/tumblr_otiwzppB591tuaz2oo1_500.gifv)]
+<!-- [![MasterHead](https://64.media.tumblr.com/460cb18ad7a8e106fc438408d646e6e8/tumblr_otiwzppB591tuaz2oo1_500.gifv)] -->
 <h1 align="center">Hi 👋, I'm Upasana Chaudhuri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="Coding"width="400"src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
