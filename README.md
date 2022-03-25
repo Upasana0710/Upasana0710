@@ -1,7 +1,7 @@
-<!-- [![MasterHead](https://64.media.tumblr.com/460cb18ad7a8e106fc438408d646e6e8/tumblr_otiwzppB591tuaz2oo1_500.gifv)] -->
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)]
 <h1 align="center">Hi 👋, I'm Upasana Chaudhuri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="Coding"width="400"src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
+<img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/4b4034f2033e129267dbb1dcc9a73ae1.gif">
 - 📫 How to reach me **upasanachaudhuri0710@gmail.com**
 
 - ⚡ Fun fact **I'm unpredictable**
