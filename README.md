@@ -1,7 +1,7 @@
 [![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)]
 <h1 align="center">Hi 👋, I'm Upasana Chaudhuri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/4b4034f2033e129267dbb1dcc9a73ae1.gif">
+<img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 - 📫 How to reach me **upasanachaudhuri0710@gmail.com**
 
 - ⚡ Fun fact **I'm unpredictable**
